@@ -2,11 +2,11 @@ Hi 👋 My name is Cristian Hernandez
 ===================================
 Web Developer
 I've been learning html css javascript and am a linux user.
-🌍 I'm based in Mexico
-🖥️ See my portfolio at [MyPortfolio](http://#)
-✉️  You can contact me at [cristian0402218@gmail.com](mailto:cristian0402218@gmail.com)
-🚀  I'm currently working on [Myapp](http://#)
-🧠  I'm learning bootstrap
+* 🌍 I'm based in Mexico
+* 🖥️ See my portfolio at [MyPortfolio](http://#)
+* ✉️  You can contact me at [cristian0402218@gmail.com](mailto:cristian0402218@gmail.com)
+* 🚀  I'm currently working on [Myapp](http://#)
+* 🧠  I'm learning bootstrap
 
 ### Skills
 
