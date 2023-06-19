@@ -1,7 +1,7 @@
 Hi 👋 My name is Cristian Hernandez
 ===================================
 Web Developer
-I've been learning html css javascript and am a linux user.
+I've been learning html css javascript and a linux user.
 * 🌍 I'm based in Mexico
 * 🖥️ See my portfolio at [MyPortfolio](http://#)
 * ✉️  You can contact me at [cristian0402218@gmail.com](mailto:cristian0402218@gmail.com)
