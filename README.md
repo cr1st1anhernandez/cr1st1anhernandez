@@ -3,16 +3,12 @@
 ###
 
 <div align="left">
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=cr1st1anhernandez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="https://streak-stats.demolab.com?user=cr1st1anhernandez&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  </div>
-  <div style="display: inline-block; margin-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cr1st1anhernandez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=cr1st1anhernandez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />&nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=cr1st1anhernandez&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cr1st1anhernandez&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
+
 
 ###
 
